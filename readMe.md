@@ -8,22 +8,9 @@ With the help of the instructions found here <https://ionicframework.com/docs/an
 
 In the end, we are going to export this project as a "native" Android app.
 
-## My Process
-
-1. Install the tools we need: native-run and cordova-res
-
-```console
-sudo npm install -g @ionic/cli native-run cordova-res --unsafe-perm
-```
+## Some references and links
 
 - native-run: native-run is a cross-platform command-line utility for running native app binaries (.ipa and .apk files) on iOS and Android devices. It can be used for both hardware and virtual devices. Source: npm
 - cordova-res: Resource Generator. This tool will crop and resize JPEG and PNG source images to generate icons and splash screens for modern iOS, Android, and Windows. cordova-res was developed for use with Cordova, but Capacitor and other native runtimes are supported. Source: npm
 - More on --unsafe-perm <https://geedew.com/What-does-unsafe-perm-in-npm-actually-do/#:~:text=If%20npm%20was%20invoked%20with,run%20scripts%20with%20root%20privileges>
-
-2. In the folder where I want my app
-
-```console
-ionic start photo-gallery tabs --type=angular --capacitor
-```
-
 - capacitor: Capacitor is a cross-platform app runtime that makes it easy to build web apps that run natively on iOS, Android, Electron, and the web. <https://ionicthemes.com/tutorials/about/native-cross-platform-web-apps-with-ionic-capacitor>
