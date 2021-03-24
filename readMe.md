@@ -8,6 +8,10 @@ With the help of the instructions found here <https://ionicframework.com/docs/an
 
 In the end, we are going to export this project as a "native" Android app.
 
+The progress so far:
+
+![photoapp](images_readme/photoapp01.png =250x450)
+
 ## Some references and links
 
 - native-run: native-run is a cross-platform command-line utility for running native app binaries (.ipa and .apk files) on iOS and Android devices. It can be used for both hardware and virtual devices. Source: npm
