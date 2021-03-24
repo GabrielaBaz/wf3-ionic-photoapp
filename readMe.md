@@ -10,7 +10,9 @@ In the end, we are going to export this project as a "native" Android app.
 
 The progress so far:
 
-![photoapp](images_readme/photoapp01.png =250x450)
+
+<img width="385" alt="photoapp01" src="https://user-images.githubusercontent.com/10408751/112340166-9b2d9f80-8cc0-11eb-8007-669740a5a5b4.png">
+
 
 ## Some references and links
 
